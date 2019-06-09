@@ -16,6 +16,15 @@
     },
     "material": {
       "tags": []
+    },
+    "ui-toolbar": {
+      "tags": []
+    },
+    "ui-login": {
+      "tags": []
+    },
+    "core-data": {
+      "tags": []
     }
   }
 }
